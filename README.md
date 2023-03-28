@@ -1,4 +1,4 @@
-​![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Amate il vostro%20lavor&fontSize=90)
+​![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Amate%20&fontSize=90)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=cyhwan0816&show_icons=true&theme=radical)](https://github.com/cyhwan0816)
 
